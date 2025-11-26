@@ -1,0 +1,5 @@
+{
+  "name": "CyberGuard Visuals",
+  "description": "A content visualization tool that analyzes cybersecurity articles and generates AI-powered thumbnails and editorial illustrations using Gemini 2.5 models.",
+  "requestFramePermissions": []
+}
